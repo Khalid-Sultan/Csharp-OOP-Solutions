@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  volunteerforethiopia:
+    image: ${DOCKER_REGISTRY}volunteerforethiopia
+    build:
+      context: .\VolunteerForEthiopia
+      dockerfile: Dockerfile

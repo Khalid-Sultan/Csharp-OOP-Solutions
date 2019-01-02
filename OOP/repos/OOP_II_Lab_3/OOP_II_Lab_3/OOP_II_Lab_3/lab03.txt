@@ -1,0 +1,22 @@
+﻿jagged Array : 3d 
+ 
+sample space A: {h,h,h,t,h,h,t,t,h,h,t,h,h,h,t,t,h}
+
+
+A). Count Number of heads 
+	output for sample space A : 11 
+B). count number of exactly two consequtive heads ::  will return 2 not four 
+	output for sample space A : 2
+C). count number of exactly two consquetive tails followed by exactly two consquetive heads. 
+	output for sample space A : 2
+
+
+
+multidimensional array : 3D 
+
+write a c# program that calculates the sum of all numbers which are divisible by 3 .
+
+Time complexity 
+Space complexity 
+
+//time complexity , space complexty 

@@ -1,0 +1,6 @@
+C:\Users\KhalidSultan\source\repos\StudyCs\Python Questions\bin\Release\Python Questions.exe.config
+C:\Users\KhalidSultan\source\repos\StudyCs\Python Questions\bin\Release\Python Questions.exe
+C:\Users\KhalidSultan\source\repos\StudyCs\Python Questions\bin\Release\Python Questions.pdb
+C:\Users\KhalidSultan\source\repos\StudyCs\Python Questions\obj\Release\Python Questions.csproj.CoreCompileInputs.cache
+C:\Users\KhalidSultan\source\repos\StudyCs\Python Questions\obj\Release\Python Questions.exe
+C:\Users\KhalidSultan\source\repos\StudyCs\Python Questions\obj\Release\Python Questions.pdb

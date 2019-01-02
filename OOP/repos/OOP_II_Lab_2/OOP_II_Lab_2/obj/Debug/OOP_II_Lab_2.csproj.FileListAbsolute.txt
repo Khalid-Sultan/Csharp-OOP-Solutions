@@ -1,0 +1,7 @@
+C:\Users\KhalidSultan\source\OOP\repos\OOP_II_Lab_2\OOP_II_Lab_2\bin\Debug\OOP_II_Lab_2.exe.config
+C:\Users\KhalidSultan\source\OOP\repos\OOP_II_Lab_2\OOP_II_Lab_2\bin\Debug\OOP_II_Lab_2.exe
+C:\Users\KhalidSultan\source\OOP\repos\OOP_II_Lab_2\OOP_II_Lab_2\bin\Debug\OOP_II_Lab_2.pdb
+C:\Users\KhalidSultan\source\OOP\repos\OOP_II_Lab_2\OOP_II_Lab_2\obj\Debug\OOP_II_Lab_2.csprojAssemblyReference.cache
+C:\Users\KhalidSultan\source\OOP\repos\OOP_II_Lab_2\OOP_II_Lab_2\obj\Debug\OOP_II_Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\KhalidSultan\source\OOP\repos\OOP_II_Lab_2\OOP_II_Lab_2\obj\Debug\OOP_II_Lab_2.exe
+C:\Users\KhalidSultan\source\OOP\repos\OOP_II_Lab_2\OOP_II_Lab_2\obj\Debug\OOP_II_Lab_2.pdb

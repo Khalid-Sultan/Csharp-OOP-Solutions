@@ -1,0 +1,7 @@
+C:\Users\KhalidSultan\source\repos\StudyCs\Python Questions\bin\Debug\Python Questions.exe.config
+C:\Users\KhalidSultan\source\repos\StudyCs\Python Questions\bin\Debug\Python Questions.exe
+C:\Users\KhalidSultan\source\repos\StudyCs\Python Questions\bin\Debug\Python Questions.pdb
+C:\Users\KhalidSultan\source\repos\StudyCs\Python Questions\obj\Debug\Python Questions.csproj.CoreCompileInputs.cache
+C:\Users\KhalidSultan\source\repos\StudyCs\Python Questions\obj\Debug\Python Questions.exe
+C:\Users\KhalidSultan\source\repos\StudyCs\Python Questions\obj\Debug\Python Questions.pdb
+C:\Users\KhalidSultan\source\repos\StudyCs\Python Questions\obj\Debug\Python Questions.csprojAssemblyReference.cache
